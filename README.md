@@ -8,7 +8,7 @@
     <tr>
       <th scope="col">Aviator Prediction App</th>
       <th scope="col">06 / 05 / 2024</th>
-      <th scope="col"><a href='./index.html'>Download</a></th>
+      <th scope="col"><a href='/index.html'>Download</a></th>
     </tr>
   </table>
 </h3>
