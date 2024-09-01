@@ -16,6 +16,8 @@
 
 # Aviator Prediction App
 
+Before You begin you need to fork this repo as your fork link will be needed in order to operate.
+
 ## Overview
 The **Aviator Prediction App** is a powerful tool designed to enhance your gaming experience by providing real-time predictions for the Aviator game. Available for Windows, iOS, and Android, this app uses advanced algorithms to predict outcomes, helping you make more informed decisions during gameplay.
 
